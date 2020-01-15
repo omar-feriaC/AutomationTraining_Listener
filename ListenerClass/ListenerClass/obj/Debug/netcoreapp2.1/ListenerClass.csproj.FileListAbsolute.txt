@@ -1,0 +1,11 @@
+C:\Users\OmarManuelFeriaCastr\source\repos\ListenerClass\ListenerClass\bin\Debug\netcoreapp2.1\ListenerClass.deps.json
+C:\Users\OmarManuelFeriaCastr\source\repos\ListenerClass\ListenerClass\bin\Debug\netcoreapp2.1\ListenerClass.runtimeconfig.json
+C:\Users\OmarManuelFeriaCastr\source\repos\ListenerClass\ListenerClass\bin\Debug\netcoreapp2.1\ListenerClass.runtimeconfig.dev.json
+C:\Users\OmarManuelFeriaCastr\source\repos\ListenerClass\ListenerClass\bin\Debug\netcoreapp2.1\ListenerClass.dll
+C:\Users\OmarManuelFeriaCastr\source\repos\ListenerClass\ListenerClass\bin\Debug\netcoreapp2.1\ListenerClass.pdb
+C:\Users\OmarManuelFeriaCastr\source\repos\ListenerClass\ListenerClass\obj\Debug\netcoreapp2.1\ListenerClass.csprojAssemblyReference.cache
+C:\Users\OmarManuelFeriaCastr\source\repos\ListenerClass\ListenerClass\obj\Debug\netcoreapp2.1\ListenerClass.csproj.CoreCompileInputs.cache
+C:\Users\OmarManuelFeriaCastr\source\repos\ListenerClass\ListenerClass\obj\Debug\netcoreapp2.1\ListenerClass.AssemblyInfoInputs.cache
+C:\Users\OmarManuelFeriaCastr\source\repos\ListenerClass\ListenerClass\obj\Debug\netcoreapp2.1\ListenerClass.AssemblyInfo.cs
+C:\Users\OmarManuelFeriaCastr\source\repos\ListenerClass\ListenerClass\obj\Debug\netcoreapp2.1\ListenerClass.dll
+C:\Users\OmarManuelFeriaCastr\source\repos\ListenerClass\ListenerClass\obj\Debug\netcoreapp2.1\ListenerClass.pdb
